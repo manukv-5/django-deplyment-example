@@ -27,7 +27,7 @@ SECRET_KEY = '0%&rgcc5nw#y@epksno#hb40a4=$*xcsk@1^5xd-v2h4g#v)a%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['manukv.pythonanywhere.com']
 
 
 # Application definition
